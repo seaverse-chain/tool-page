@@ -1,6 +1,6 @@
 {
-  "name": "nexth",
-  "version": "0.1.0",
+  "name": "tool-page",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",

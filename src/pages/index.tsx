@@ -9,11 +9,7 @@ export default function Home() {
       <Head />
 
       <main>
-        <HeadingComponent as="h2">Next.js + Ethereum starter kit</HeadingComponent>
-        <Text>Quickly ship Web3 Apps ⚡</Text>
-        <Text py={4}>
-          <LinkComponent href="examples">View examples</LinkComponent> to bootstrap development.
-        </Text>
+        <HeadingComponent as="h2">Provided some tools.</HeadingComponent>
       </main>
     </>
   )
